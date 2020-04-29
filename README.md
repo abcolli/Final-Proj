@@ -9,7 +9,7 @@ Employees can add and edit vehicles, users, inspections, as well as create new r
 
 ### Examples of logins table
 
-User type | Email | Password |
+User role | Email | Password |
 -----------| ---------- | ----------
 Employee | e@a.com | abcdefg
 Customer | c@a.com | abcdefg
@@ -17,5 +17,5 @@ Customer | c@a.com | abcdefg
 
 ## Relational Schema
 
-![Schema used in final database](/Python/schema.jpg)
+![Schema used in final database](/Final-Proj/schema.jpg)
 
