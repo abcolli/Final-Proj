@@ -17,4 +17,5 @@ Customer | c@a.com | abcdefg
 
 ## Relational Schema
 
-![Schema used in final database](/IS437/schema.jpg)
+![Schema used in final database](/Python/schema.jpg)
+
