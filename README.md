@@ -17,5 +17,5 @@ Customer | c@a.com | abcdefg
 
 ## Relational Schema
 
-![Schema used in final database](/Final-Proj/schema.jpg)
+![Schema used in final database](/docs/schema.jpg)
 
